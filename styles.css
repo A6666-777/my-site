@@ -1,0 +1,128 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family:'Merriweather', serif;
+    color: #40514e;
+}
+h1{
+   margin: 50px;
+   font-family: 'Sacramento', cursive;
+   font-size: 6rem;
+   color:teal;
+   line-height: 2;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:2.5rem;
+    color:#01937C;
+    padding-top: 30px;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: lightseagreen;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height:2;
+    text-align: left;
+}
+.top{    
+        background-color: #E4FBFF;
+        position: relative;
+        padding: 100px;
+}
+.middle-container{
+    background-color: #EDEEF7;
+    padding-top: 70px;
+}
+    
+.profile image{
+    padding-top: 50px;
+}
+.contact-me{
+    background-color: #EDEEF7;
+    padding: 50px;
+
+}
+.bottom-container{
+    background-color:#E4FBFF;
+    padding:50px 0 20px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 500px ;
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.img1{
+    float:left;
+    margin-right: 30px;
+}
+.img2{
+    float:right;
+    margin-left: 30px;
+}
+.www{
+    padding-top: 100px;
+}
+.footer-link{
+    color:darkgreen;
+    margin:10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #3cb0fd;
+}
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-top: 100px;
+}
+.btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+}
+hr{
+      border-style: dotted;
+      border-top: 0cm;
+      border-width: 5px;
+      color: #01937C;
+      height: 0%;
+      width: 30px;
+}
+.p1{
+      margin: 70px;
+}
+.p4{
+      margin: 50px;
+}
+.p5{
+    font-size: 15px;
+    margin: 15px;
+    padding: 10px;
+    font-size: small;
+}
+.get-in{
+    padding: 0px;
+    margin-top: 0px;
+}
+  
